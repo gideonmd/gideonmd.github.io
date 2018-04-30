@@ -29,9 +29,6 @@ markdown: kramdown
 remote_theme: yous/jekyll-whiteglass
 plugins:
   - jekyll-feed
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
